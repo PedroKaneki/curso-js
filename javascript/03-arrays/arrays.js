@@ -13,4 +13,4 @@ var person3 = {
 var list = [person1,person2,person3]
 for (person of list){
     console.log(person);
-}
+};
